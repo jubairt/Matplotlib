@@ -13,7 +13,7 @@ This repository contains essential resources and tutorials to help you master Ma
 3. **[Subplots_and_Layout](Subplots_and_Layout)**  
    Explore the creation of subplots and learn how to arrange multiple plots within a figure.
 
-4. **[https://github.com/jubairt/Matplotlib/blob/main/Customization.ipynb](Customization)**  
+4. **[Customization](https://github.com/jubairt/Matplotlib/blob/main/Customization.ipynb)**  
    Dive into the customization options for titles, labels, legends, and annotations.
 
 5. **[advanced_customization](advanced_customization)**  
